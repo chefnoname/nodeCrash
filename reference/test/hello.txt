@@ -1,0 +1,3 @@
+We used Node to write this
+      
+      We appended to this file withing our writeFile fn
